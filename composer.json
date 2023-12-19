@@ -1,0 +1,19 @@
+{
+    "name": "meyti/solar-date",
+    "description": "A package for Jalali calendar",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Meyti\\SolarDate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammad",
+            "email": "picobaz@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
